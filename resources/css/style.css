@@ -4,5 +4,40 @@
 }
 
 h1 {
+  font-size: 70px;
+}
 
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1, a, #NY, #copyright, .links {
+  color: white;
+}
+
+nav {
+  font-size: 18px;
+}
+
+.background-image {
+  background-image: url("../images/background-image.png");
+  background-color: gray;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#copyright {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
 }
